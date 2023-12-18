@@ -1,0 +1,4 @@
+@INCLUDE        = ../../doxygen/doxygen.conf
+PROJECT_NAME    = "lab_bloom"
+PROJECT_BRIEF   = "Brilliant Bloom Filters"
+EXTRACT_PRIVATE = YES
